@@ -1,0 +1,11 @@
+Model Information:
+* title:	Zeus with Lightning Bolt
+* source:	https://sketchfab.com/3d-models/zeus-with-lightning-bolt-f026fb95f0554ccfbc3abeec7aa6cd11
+* author:	jsola60 (https://sketchfab.com/jsola60)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Zeus with Lightning Bolt" (https://sketchfab.com/3d-models/zeus-with-lightning-bolt-f026fb95f0554ccfbc3abeec7aa6cd11) by jsola60 (https://sketchfab.com/jsola60) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
